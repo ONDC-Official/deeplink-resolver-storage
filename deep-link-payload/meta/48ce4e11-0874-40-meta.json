@@ -1,0 +1,12 @@
+{
+  "id": "48ce4e11-0874-40",
+  "createdAt": "2025-01-15T08:52:58.000Z",
+  "updatedAt": "2025-01-15T08:53:12.774Z",
+  "templateId": "5ad47c4e-bb41-4c",
+  "name": "Deeplink Name",
+  "description": "Description",
+  "creatorName": "Sonali Shakya",
+  "qrPdfLink": null,
+  "usecaseDeepLink": "beckn://ret10.ondc/48ce4e11-0874-40",
+  "usecaseStage": "PUBLISHED"
+}
