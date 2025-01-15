@@ -1,0 +1,12 @@
+{
+  "id": "3c9c25eb-996a-4d",
+  "createdAt": "2025-01-15T06:13:12.055Z",
+  "updatedAt": "2025-01-15T06:15:46.061Z",
+  "templateId": "15c2bb6c-bf7a-46",
+  "name": "DL Name Test 1",
+  "description": "DL Description Test 1",
+  "creatorName": "Sonali",
+  "qrPdfLink": null,
+  "usecaseDeepLink": "beckn://ondc_ret10.ondc/3c9c25eb-996a-4d",
+  "usecaseStage": "PUBLISHED"
+}
