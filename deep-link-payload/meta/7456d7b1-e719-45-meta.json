@@ -1,0 +1,12 @@
+{
+  "id": "7456d7b1-e719-45",
+  "createdAt": "2025-01-16T03:58:39.402Z",
+  "updatedAt": "2025-01-16T03:59:37.112Z",
+  "templateId": "f9f2556a-5205-42",
+  "name": "Test Link",
+  "description": "Testing purposes for Resolver SDK",
+  "creatorName": "Abhik",
+  "qrPdfLink": null,
+  "usecaseDeepLink": "beckn://ret10.ondc/7456d7b1-e719-45",
+  "usecaseStage": "PUBLISHED"
+}
