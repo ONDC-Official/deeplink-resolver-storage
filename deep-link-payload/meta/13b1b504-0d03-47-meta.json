@@ -1,0 +1,12 @@
+{
+  "id": "13b1b504-0d03-47",
+  "createdAt": "2025-01-20T11:29:00.036Z",
+  "updatedAt": "2025-01-20T11:29:13.525Z",
+  "templateId": "0c8d90fa-c460-47",
+  "name": "DL Name Test 1",
+  "description": "DL Description Test 1",
+  "creatorName": "Sonali Shakya",
+  "qrPdfLink": null,
+  "usecaseDeepLink": "beckn://ret10.ondc/13b1b504-0d03-47",
+  "usecaseStage": "PUBLISHED"
+}
