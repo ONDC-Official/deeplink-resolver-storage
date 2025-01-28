@@ -1,0 +1,12 @@
+{
+  "id": "fdf14bd1-dc91-4f",
+  "createdAt": "2025-01-28T13:04:33.394Z",
+  "updatedAt": "2025-01-28T13:04:49.537Z",
+  "templateId": "9429d7f5-d1e0-4c",
+  "name": "Ref App Test",
+  "description": "Deeplink for testing Ref App",
+  "creatorName": "abhik",
+  "qrPdfLink": null,
+  "usecaseDeepLink": "beckn://deeplink.resolver.ondc.org.ret10.ondc/fdf14bd1-dc91-4f",
+  "usecaseStage": "PUBLISHED"
+}
