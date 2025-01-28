@@ -1,0 +1,12 @@
+{
+  "id": "1e27ad70-d953-4b",
+  "createdAt": "2025-01-28T13:21:09.221Z",
+  "updatedAt": "2025-01-28T13:21:24.597Z",
+  "templateId": "9429d7f5-d1e0-4c",
+  "name": "Testing Deep Link (Again)",
+  "description": "Helloo",
+  "creatorName": "Abhik again",
+  "qrPdfLink": null,
+  "usecaseDeepLink": "beckn://deeplink.ret10.ondc/1e27ad70-d953-4b",
+  "usecaseStage": "PUBLISHED"
+}
