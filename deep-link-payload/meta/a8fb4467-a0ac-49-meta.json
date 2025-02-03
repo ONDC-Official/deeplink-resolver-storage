@@ -1,0 +1,12 @@
+{
+  "id": "a8fb4467-a0ac-49",
+  "createdAt": "2025-02-03T07:30:29.253Z",
+  "updatedAt": "2025-02-03T07:30:57.694Z",
+  "templateId": "34f986b8-2674-4e",
+  "name": "Catalog Test",
+  "description": "For test purposes",
+  "creatorName": "test",
+  "qrPdfLink": null,
+  "usecaseDeepLink": "beckn://deeplink.ret10.ondc/a8fb4467-a0ac-49",
+  "usecaseStage": "PUBLISHED"
+}
