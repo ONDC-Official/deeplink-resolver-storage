@@ -1,0 +1,12 @@
+{
+  "id": "086d6a60-d546-41",
+  "createdAt": "2025-02-03T05:45:18.581Z",
+  "updatedAt": "2025-02-03T05:45:38.440Z",
+  "templateId": "9429d7f5-d1e0-4c",
+  "name": "test dl",
+  "description": "this is for test",
+  "creatorName": "Test user",
+  "qrPdfLink": null,
+  "usecaseDeepLink": "beckn://deeplink.ret10.ondc/086d6a60-d546-41",
+  "usecaseStage": "PUBLISHED"
+}
