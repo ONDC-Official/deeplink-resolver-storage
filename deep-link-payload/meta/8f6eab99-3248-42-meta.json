@@ -1,0 +1,12 @@
+{
+  "id": "8f6eab99-3248-42",
+  "createdAt": "2025-02-06T07:50:10.173Z",
+  "updatedAt": "2025-02-06T07:50:40.211Z",
+  "templateId": "34f986b8-2674-4e",
+  "name": "Eplink",
+  "description": "Testing",
+  "creatorName": "Jay",
+  "qrPdfLink": null,
+  "usecaseDeepLink": "beckn://deeplink.ret10.ondc/8f6eab99-3248-42",
+  "usecaseStage": "PUBLISHED"
+}
