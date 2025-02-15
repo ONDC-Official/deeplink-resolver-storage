@@ -1,0 +1,12 @@
+{
+  "id": "eac38e30-54cd-43",
+  "createdAt": "2025-02-15T08:05:30.838Z",
+  "updatedAt": "2025-02-15T08:27:59.380Z",
+  "templateId": "76c6d5f8-d8a5-46",
+  "name": "bhagyalakshmi-item1",
+  "description": "grocery item 1",
+  "creatorName": "Ananth",
+  "qrPdfLink": null,
+  "usecaseDeepLink": "beckn://deeplink.ret10.ondc/eac38e30-54cd-43",
+  "usecaseStage": "PUBLISHED"
+}
