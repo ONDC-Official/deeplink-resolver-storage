@@ -1,0 +1,12 @@
+{
+  "id": "677f83be-6c74-45",
+  "createdAt": "2025-02-24T09:39:55.834Z",
+  "updatedAt": "2025-02-24T11:24:35.469Z",
+  "templateId": "9429d7f5-d1e0-4c",
+  "name": "paytm",
+  "description": "test deeplink",
+  "creatorName": "dataorc",
+  "qrPdfLink": null,
+  "usecaseDeepLink": "beckn://deeplink.ret10.ondc/677f83be-6c74-45",
+  "usecaseStage": "PUBLISHED"
+}
