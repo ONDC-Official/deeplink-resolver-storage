@@ -1,0 +1,12 @@
+{
+  "id": "f2be0e67-1a81-42",
+  "createdAt": "2025-02-24T10:42:10.170Z",
+  "updatedAt": "2025-02-24T10:42:42.891Z",
+  "templateId": "34f986b8-2674-4e",
+  "name": "Baibhab",
+  "description": "Test for name based search",
+  "creatorName": "Baibhab",
+  "qrPdfLink": null,
+  "usecaseDeepLink": "beckn://deeplink.ret10.ondc/f2be0e67-1a81-42",
+  "usecaseStage": "PUBLISHED"
+}
