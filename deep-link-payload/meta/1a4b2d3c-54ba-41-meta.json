@@ -1,0 +1,12 @@
+{
+  "id": "1a4b2d3c-54ba-41",
+  "createdAt": "2025-02-25T07:38:47.961Z",
+  "updatedAt": "2025-02-25T07:39:53.604Z",
+  "templateId": "34f986b8-2674-4e",
+  "name": "test",
+  "description": "deeplnk",
+  "creatorName": "deeplnk",
+  "qrPdfLink": null,
+  "usecaseDeepLink": "beckn://deeplink.ret12.ondc/1a4b2d3c-54ba-41",
+  "usecaseStage": "PUBLISHED"
+}
