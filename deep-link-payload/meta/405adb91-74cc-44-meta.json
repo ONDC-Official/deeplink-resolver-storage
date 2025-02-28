@@ -1,0 +1,12 @@
+{
+  "id": "405adb91-74cc-44",
+  "createdAt": "2025-02-28T13:00:27.812Z",
+  "updatedAt": "2025-02-28T13:00:38.967Z",
+  "templateId": "34f986b8-2674-4e",
+  "name": "Redirect On Store",
+  "description": "Redirect On Store",
+  "creatorName": "Vijendra Patidar",
+  "qrPdfLink": null,
+  "usecaseDeepLink": "beckn://deeplink.ret10.ondc/405adb91-74cc-44",
+  "usecaseStage": "PUBLISHED"
+}
