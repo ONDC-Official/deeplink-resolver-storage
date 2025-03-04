@@ -1,0 +1,12 @@
+{
+  "id": "0d7842e3-4d60-4f",
+  "createdAt": "2025-03-04T07:50:37.483Z",
+  "updatedAt": "2025-03-04T07:50:42.543Z",
+  "templateId": "34f986b8-2674-4e",
+  "name": "nk",
+  "description": "deeplnk",
+  "creatorName": "deeplink",
+  "qrPdfLink": null,
+  "usecaseDeepLink": "beckn://deeplink.ret10.ondc/0d7842e3-4d60-4f",
+  "usecaseStage": "PUBLISHED"
+}
