@@ -1,0 +1,12 @@
+{
+  "id": "d3cf1f58-c6b3-4d",
+  "createdAt": "2025-03-04T12:44:45.291Z",
+  "updatedAt": "2025-03-04T12:44:58.653Z",
+  "templateId": "34f986b8-2674-4e",
+  "name": "Redirect On Store",
+  "description": "Redirect On Store",
+  "creatorName": "Yogesh Mukati",
+  "qrPdfLink": null,
+  "usecaseDeepLink": "beckn://deeplink.ret12.ondc/d3cf1f58-c6b3-4d",
+  "usecaseStage": "PUBLISHED"
+}
