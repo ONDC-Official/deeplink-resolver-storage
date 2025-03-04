@@ -1,0 +1,149 @@
+{
+  "type": "object",
+  "$schema": "https://json-schema.org/draft/2019-09/schema",
+  "required": [
+    "context",
+    "message"
+  ],
+  "properties": {
+    "context": {
+      "type": "object",
+      "required": [
+        "domain",
+        "action",
+        "country",
+        "city",
+        "core_version",
+        "bap_id",
+        "bap_uri",
+        "transaction_id",
+        "message_id",
+        "timestamp",
+        "ttl"
+      ],
+      "properties": {
+        "ttl": {
+          "type": "string",
+          "const": "PT30S",
+          "$comment": "filler:system"
+        },
+        "city": {
+          "type": "string",
+          "$comment": "filler:consumer"
+        },
+        "action": {
+          "type": "string",
+          "const": "search",
+          "$comment": "filler:system"
+        },
+        "bap_id": {
+          "type": "string",
+          "$comment": "filler:consumer"
+        },
+        "bpp_id": {
+          "type": "string",
+          "const": "ondc.kiko.live/ondc-seller",
+          "$comment": "filler:user"
+        },
+        "domain": {
+          "type": "string",
+          "const": "ONDC:RET10",
+          "oneOf": [
+            {
+              "const": "ONDC:RET10",
+              "title": "Grocery"
+            },
+            {
+              "const": "ONDC:RET12",
+              "title": "Fashion"
+            },
+            {
+              "const": "ONDC:RET13",
+              "title": "BPC"
+            }
+          ],
+          "$comment": "filler:user"
+        },
+        "bap_uri": {
+          "type": "string",
+          "$comment": "filler:consumer"
+        },
+        "bpp_uri": {
+          "type": "string",
+          "const": "https://ondc.kiko.live/ondc-seller",
+          "$comment": "filler:user"
+        },
+        "country": {
+          "type": "string",
+          "$comment": "filler:consumer"
+        },
+        "timestamp": {
+          "type": "string",
+          "$comment": "filler:consumer"
+        },
+        "message_id": {
+          "type": "string",
+          "$comment": "filler:consumer"
+        },
+        "core_version": {
+          "type": "string",
+          "const": "1.2.0",
+          "$comment": "filler:system"
+        },
+        "transaction_id": {
+          "type": "string",
+          "$comment": "filler:consumer"
+        }
+      }
+    },
+    "message": {
+      "type": "object",
+      "required": [
+        "intent"
+      ],
+      "properties": {
+        "intent": {
+          "type": "object",
+          "required": [
+            "provider",
+            "payment"
+          ],
+          "properties": {
+            "payment": {
+              "type": "object",
+              "required": [
+                "@ondc/org/buyer_app_finder_fee_type",
+                "@ondc/org/buyer_app_finder_fee_amount"
+              ],
+              "properties": {
+                "@ondc/org/buyer_app_finder_fee_type": {
+                  "type": "string",
+                  "const": "percent",
+                  "$comment": "filler:system"
+                },
+                "@ondc/org/buyer_app_finder_fee_amount": {
+                  "type": "string",
+                  "const": "5",
+                  "$comment": "filler:system"
+                }
+              }
+            },
+            "provider": {
+              "type": "object",
+              "required": [
+                "id"
+              ],
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "const": "669251e16239400bb433c97c",
+                  "$comment": "filler:user"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
